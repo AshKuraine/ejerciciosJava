@@ -6,7 +6,6 @@ public class MiPrimerPrograma {
         System.out.println("Bienvenido a tu curso de Java");
         System.out.println("Mi nombre es AshKuraine");
         Scanner papu = new Scanner(System.in);
-        int edad = 26;
         String name = "AshKuraine";
         boolean day = false;
         char vocal = 'a';
