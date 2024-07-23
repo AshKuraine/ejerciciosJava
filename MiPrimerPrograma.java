@@ -5,7 +5,6 @@ public class MiPrimerPrograma {
         /*System.out.println("Hola mundo!");
         System.out.println("Bienvenido a tu curso de Java");
         System.out.println("Mi nombre es AshKuraine");
-        System.out.println("Mi edad es 26");
         Scanner papu = new Scanner(System.in);
         int edad = 26;
         String name = "AshKuraine";
